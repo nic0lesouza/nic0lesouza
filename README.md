@@ -6,7 +6,7 @@ meu nome é Nicole
 - estou me desenvolvendo na linguagem JavaScript
 - utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- ### voçê entrar em contato comigo 📫
+- ### você entrar em contato comigo 📫
 
 
 
